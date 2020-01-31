@@ -5,5 +5,5 @@ class Main {
     while (1==1) {
       System.out.println(x + maths);
       x += 9999999;}
-  }
+  } 
 }
